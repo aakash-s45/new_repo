@@ -4,7 +4,6 @@ typedef long long int ll;
 
 int main()
 {
-    cout << "ello";
-    int a = 4;
+    int jhdbfjhsb;
     return 0;
 }
